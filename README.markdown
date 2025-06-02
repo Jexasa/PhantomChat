@@ -1,4 +1,4 @@
-# P2P Chat Extension
+# P2P Chat Extension  version 0.1.0
 
 A secure, React-based P2P chat web extension with end-to-end encryption, group chat, file sharing, video/voice calls, offline support, and searchable message history.
 
